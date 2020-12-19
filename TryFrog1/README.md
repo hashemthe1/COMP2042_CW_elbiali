@@ -31,9 +31,7 @@ A Highscore screen was implemented
 ## Authors
 
 * **Hashem el Biali** - *Initial work* - [Hashemthe1](https://github.com/hashemthe1)
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
 
