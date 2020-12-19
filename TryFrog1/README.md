@@ -1,5 +1,4 @@
-# images-in-README
-Screenshots of frogger game
+
 # Frogger Game
 The classic retro arcade game "Frogger" is implemented in the progect.A basic frogger game was givin and we where asked to upgrade the game as we wish.The game code was messy and had to be reffractord.Adittions was made to the game adding a menu and more built in features in the game. Diffrent levels of the game was implemented with new obsecles. 
 
