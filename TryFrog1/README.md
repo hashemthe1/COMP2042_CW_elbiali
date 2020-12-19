@@ -22,7 +22,7 @@ More levels was made to the game making it more challinging.
 A Highscore screen was implemented
 
 
-## Scrennshots
+## Screenshots
 ![game](https://user-images.githubusercontent.com/58915587/102675843-9a5a0e80-41a3-11eb-9ccf-7d547480ebe2.PNG)
 ![Info](https://user-images.githubusercontent.com/58915587/102675870-b6f64680-41a3-11eb-800d-fb8de2f9b795.PNG)
 ![menu](https://user-images.githubusercontent.com/58915587/102675882-c5446280-41a3-11eb-8947-fb097e3298a5.PNG)
